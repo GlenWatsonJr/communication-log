@@ -1,6 +1,11 @@
 body {
+<<<<<<< HEAD
     color: rgb(29, 9, 100);
     background-color: rgb(165, 200, 202);
+=======
+    color: #550505;
+    background-color: white;
+>>>>>>> 2b4786c8190e9cbb72e70e9722a98f669257be04
     font-family: 'Satisfy', cursive;
     font-size: 150%;
     margin-top: 5%;
